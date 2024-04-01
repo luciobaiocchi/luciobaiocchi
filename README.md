@@ -11,8 +11,6 @@ More information about me (including my CV) are available on [my personal web pa
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luciobaiocchi&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciobaiocchi&theme=dracula&bg_color=45,0F2027,203A43,2C5364)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </div>
   
