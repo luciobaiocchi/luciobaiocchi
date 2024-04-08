@@ -1,8 +1,6 @@
 ## Lucio Baiocchi
 
 
-More information about me (including my CV) are available on [my personal web page](https://danysk.github.io).
-
 ### GitHub stats
 
 <div align="center">
