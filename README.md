@@ -5,10 +5,9 @@
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=luciobaiocchi&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=luciobaiocchi&theme=monokai&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luciobaiocchi&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
+ [![GitHub Streak](https://streak-stats.demolab.com?user=luciobaiocchi&theme=monokai&border_radius=5&mode=weekly&card_width=527)](https://git.io/streak-stats)
 
 </div>
   
