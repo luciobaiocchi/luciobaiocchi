@@ -1,27 +1,32 @@
-## Lucio Baiocchi
-
-
-### GitHub stats
-
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=luciobaiocchi&theme=monokai&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=luciobaiocchi&theme=dark&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=luciobaiocchi&theme=monokai&border_radius=5&mode=weekly&card_width=527)](https://git.io/streak-stats)
+  <table>
+    <tr>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=luciobaiocchi&theme=dark&border_radius=5&mode=weekly&card_width=300" alt="GitHub Streak">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciobaiocchi&layout=donut-vertical&theme=dark" alt="Most used languages">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=luciobaiocchi&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luciobaiocchi&theme=dark" alt="Profile Details">
+
+  </table>
 
 </div>
-  
-<!--
-**DanySK/DanySK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
